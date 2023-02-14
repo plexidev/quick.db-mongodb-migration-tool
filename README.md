@@ -9,5 +9,5 @@ npm i -g quick.db-mongodb-migration-tool
 (in a terminal)
 
 ```
-migration-tool
+mongomg-tool
 ```

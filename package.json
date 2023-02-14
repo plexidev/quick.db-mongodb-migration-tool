@@ -1,6 +1,6 @@
 {
     "name": "quick.db-mongodb-migration-tool",
-    "version": "1.0.7",
+    "version": "1.0.7-2",
     "description": "",
     "main": "index.js",
     "bin": {
