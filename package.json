@@ -1,0 +1,26 @@
+{
+    "name": "quick.db-mongodb-migration-tool",
+    "version": "1.0.7",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "mongomg-tool": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "better-sqlite3": "^8.1.0",
+        "inquirer": "^9.1.4",
+        "mongodb": "^5.0.1",
+        "quick.db": "^9.0.8"
+    },
+    "devDependencies": {
+        "dotenv": "^16.0.3",
+        "eslint": "^8.34.0",
+        "quickmongo": "^5.2.0"
+    }
+}
